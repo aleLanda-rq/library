@@ -1,0 +1,9 @@
+.nav{
+    background-color: rgb(244, 243, 235);
+}
+.logo{
+    max-height: 110px;
+    max-width: 110px;
+    object-fit: cover;
+    width: 100%;
+}
